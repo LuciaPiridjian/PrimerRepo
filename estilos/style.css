@@ -398,4 +398,8 @@ footer {
   position: sticky;
   bottom: 0px;
 }
+
+.table th, .table td {
+  text-align: center !important;
+}
 /*# sourceMappingURL=style.css.map */

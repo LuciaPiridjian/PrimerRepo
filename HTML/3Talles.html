@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en" class="color1">
+<html lang="en" class="color2">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -39,7 +39,7 @@
                         </svg>
                     </a>
                     <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
-                        <li><a class="dropdown-item" href="./HTML/1Disenos.html">Diseños</a></li>
+                        <li><a class="dropdown-item" href="index.html">Diseños</a></li>
                         <li><a class="dropdown-item" href="./HTML/2Estilos.html">Estilos</a></li>
                         <li><a class="dropdown-item" href="./HTML/3Talles.html">Talles</a></li>
                         <li><a class="dropdown-item" href="./HTML/4Cantidad.html">Cantidades</a></li>
@@ -50,52 +50,49 @@
         </div>
     </nav>
  </header>
-    <main class="backgroundColor">
-
-        <p class="_1">1</p>
-        <p class="_2">2</p>
-
+    <main>
         <h1 style="color: rgb(88, 24, 69);">Tabla de talles</h1>
-        <div class="tabla">
-            <table class= "tablaTalles" border-style="20px" cellspacing="20px">
+        <table class="table">
+            <thead class="tabla">
                 <tr>
-                    <th>Talles</th>
-                    <th>Alto</th>
-                    <th>Ancho</th>
+                <th class="table-secondary" scope="col">Talle</th>
+                <th class="table-light" scope="col">Alto</th>
+                <th class="table-dark" scope="col">Ancho</th>
+                <th scope="col">Seleccionar</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                <th class="table-primary" scope="row">S</th>
+                <td class="table-primary">64 cm</td>
+                <td class="table-primary">46 cm</td>
+                <td class="table-primary"><input type="radio" name="talle" valor="S"/></td>
                 </tr>
                 <tr>
-                    <th>S</th>
-                    <td>64 cm</td>
-                    <td>46 cm</td>
-                    <input type="radio" name="talle" valor="S"/>
+                <th class="table-success" scope="row">M</th>
+                <td class="table-success">66 cm</td>
+                <td class="table-success">50 cm</td>
+                <td class="table-success"><input type="radio" name="talle" valor="M"/></td>
                 </tr>
                 <tr>
-                    <th>M</th>
-                    <td>66 cm</td>
-                    <td>50 cm</td>
-                    <input type="radio" name="talle" valor="M"/>
+                <th class="table-danger" scope="row">L</th>
+                <td class="table-danger">70 cm</td>
+                <td class="table-danger">54 cm</td>
+                <td class="table-danger"><input type="radio" name="talle" valor="L"/></td>
+                </tr>
+                <th class="table-warning" scope="row">XL</th>
+                <td class="table-warning">72 cm</td>
+                <td class="table-warning">58 cm</td>
+                <td class="table-warning"><input type="radio" name="talle" valor="XL"/></td>
                 </tr>
                 <tr>
-                    <th>L</th>
-                    <td>70 cm</td>
-                    <td>54 cm</td>
-                    <input type="radio" name="talle" valor="L"/>
+                <th class="table-info" scope="row">XXL</th>
+                <td class="table-info" >75 cm</td>
+                <td class="table-info" >62 cm</td>
+                <td class="table-info" ><input type="radio" name="talle" valor="XXL"/></td> 
                 </tr>
-                <tr>
-                    <th>XL</th>
-                    <td>72 cm</td>
-                    <td>58 cm</td>
-                    <input type="radio" name="talle" valor="XL"/>
-                </tr>
-                <tr>
-                    <th>XXL</th>
-                    <td>75 cm</td>
-                    <td>62 cm</td>
-                    <input type="radio" name="talle" valor="XXL"/>
-                </tr>
-            </table>
-        </div>
-        
+            </tbody>
+        </table>
     </main>
     <footer>
         <button class="button1">
@@ -103,10 +100,8 @@
         </button>
     </footer>
 <!--JavaScript Bundle with Popper-->
-    <script 
-    src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.10.2/dist/umd/popper.min.js"
-    integrity="sha384-7+zCNj/IqJ95wo16oMtfsKbZ9ccEh31eOz1HGyDuCQ6wgnyJNSYdrPa03rtR1zdB"
-    crossorigin="anonymous">
-    </script> 
+    <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-fQybjgWLrvvRgtW6bFlB7jaZrFsaBXjsOMm/tB9LTS58ONXgqbR9W8oWht/amnpF" crossorigin="anonymous"></script>       
+
 </body>
 </html>
