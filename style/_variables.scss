@@ -1,9 +1,36 @@
 $background: #ffc624;
-$font-size: 20px; 
-    
-    /* Each */
-        @each $colores1 in _#{$colores2}, _#{$colores3} {
-            /* Condicionales + Maps */
-                    @if $colores1 == diaPar { $map: (header: #00006f, main: #0040c0, footer: #009cf5) }
-                @else if $colores1 == diaImpar { $map: (header: #6a274d, body: #95325c, footer: #ff7891) }
+$font-size: 20px;
+
+$map: (
+  color1: (
+    header: #00006f,
+    main: #0040c0,
+    footer: #009cf5,
+  ),
+  color2: (
+    header: #6a274d,
+    body: #ff7891 ,
+    footer: #95325c
+  ),
+);
+
+/* Each */
+@each $item, $props in $map {
+  .#{$item} {
+    @each $element, $color in $props {
+      #{$element} {
+        background-color: $color !important;
+        .form-control {
+          background-color: $color !important;
+          width: 50%;
+          margin: 0px;
+        }
+      }
     }
+  }
+}
+
+/* Condicionales + Maps */
+/*   @if $colores1 == diaPar {
+  } @else if $colores1 == diaImpar {
+  } */
