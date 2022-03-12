@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://github.com/LuciaPiridjian/PrimerRepo</loc>
+  <lastmod>2022-03-12T02:51:59+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://github.com/LuciaPiridjian/PrimerRepo/issues</loc>
+  <lastmod>2022-03-12T02:51:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/LuciaPiridjian/PrimerRepo/pulls</loc>
+  <lastmod>2022-03-12T02:51:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/LuciaPiridjian/PrimerRepo/actions</loc>
+  <lastmod>2022-03-12T02:51:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/LuciaPiridjian/PrimerRepo/projects?type=beta</loc>
+  <lastmod>2022-03-12T02:51:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/LuciaPiridjian/PrimerRepo/security</loc>
+  <lastmod>2022-03-12T02:51:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/LuciaPiridjian/PrimerRepo/blob/main/index.html</loc>
+  <lastmod>2022-03-12T02:51:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/LuciaPiridjian/PrimerRepo/releases</loc>
+  <lastmod>2022-03-12T02:51:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/LuciaPiridjian/PrimerRepo/labels</loc>
+  <lastmod>2022-03-12T02:51:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/LuciaPiridjian/PrimerRepo/milestones</loc>
+  <lastmod>2022-03-12T02:51:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/LuciaPiridjian/PrimerRepo/compare</loc>
+  <lastmod>2022-03-12T02:51:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/LuciaPiridjian/PrimerRepo/projects</loc>
+  <lastmod>2022-03-12T02:51:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/LuciaPiridjian/PrimerRepo/security/policy</loc>
+  <lastmod>2022-03-12T02:51:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/LuciaPiridjian/PrimerRepo/security/advisories</loc>
+  <lastmod>2022-03-12T02:51:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/LuciaPiridjian/PrimerRepo/blob/c1a71422a64dfeb2e00ce3b7e97ccc371705c9eb/index.html</loc>
+  <lastmod>2022-03-12T02:51:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/LuciaPiridjian/PrimerRepo/find/main</loc>
+  <lastmod>2022-03-12T02:51:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/LuciaPiridjian/PrimerRepo/labels?sort=name-asc</loc>
+  <lastmod>2022-03-12T02:51:59+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LuciaPiridjian/PrimerRepo/labels?sort=name-desc</loc>
+  <lastmod>2022-03-12T02:51:59+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LuciaPiridjian/PrimerRepo/labels?sort=count-desc</loc>
+  <lastmod>2022-03-12T02:51:59+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LuciaPiridjian/PrimerRepo/labels?sort=count-asc</loc>
+  <lastmod>2022-03-12T02:51:59+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LuciaPiridjian/PrimerRepo/labels/bug</loc>
+  <lastmod>2022-03-12T02:51:59+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LuciaPiridjian/PrimerRepo/labels/documentation</loc>
+  <lastmod>2022-03-12T02:51:59+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LuciaPiridjian/PrimerRepo/labels/duplicate</loc>
+  <lastmod>2022-03-12T02:51:59+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LuciaPiridjian/PrimerRepo/labels/enhancement</loc>
+  <lastmod>2022-03-12T02:51:59+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LuciaPiridjian/PrimerRepo/labels/good%20first%20issue</loc>
+  <lastmod>2022-03-12T02:51:59+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LuciaPiridjian/PrimerRepo/labels/help%20wanted</loc>
+  <lastmod>2022-03-12T02:51:59+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LuciaPiridjian/PrimerRepo/labels/invalid</loc>
+  <lastmod>2022-03-12T02:51:59+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LuciaPiridjian/PrimerRepo/labels/question</loc>
+  <lastmod>2022-03-12T02:51:59+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LuciaPiridjian/PrimerRepo/labels/wontfix</loc>
+  <lastmod>2022-03-12T02:51:59+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LuciaPiridjian/PrimerRepo/milestones?state=open</loc>
+  <lastmod>2022-03-12T02:51:59+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LuciaPiridjian/PrimerRepo/milestones?state=closed</loc>
+  <lastmod>2022-03-12T02:51:59+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LuciaPiridjian/PrimerRepo/milestones?direction=desc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2022-03-12T02:51:59+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LuciaPiridjian/PrimerRepo/milestones?direction=asc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2022-03-12T02:51:59+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LuciaPiridjian/PrimerRepo/milestones?direction=asc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2022-03-12T02:51:59+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LuciaPiridjian/PrimerRepo/milestones?direction=desc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2022-03-12T02:51:59+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LuciaPiridjian/PrimerRepo/milestones?direction=asc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2022-03-12T02:51:59+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LuciaPiridjian/PrimerRepo/milestones?direction=desc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2022-03-12T02:51:59+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LuciaPiridjian/PrimerRepo/milestones?direction=desc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2022-03-12T02:51:59+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LuciaPiridjian/PrimerRepo/milestones?direction=asc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2022-03-12T02:51:59+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LuciaPiridjian/PrimerRepo/security/advisories?state=published</loc>
+  <lastmod>2022-03-12T02:51:59+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LuciaPiridjian/PrimerRepo/find/c1a71422a64dfeb2e00ce3b7e97ccc371705c9eb</loc>
+  <lastmod>2022-03-12T02:51:59+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LuciaPiridjian/PrimerRepo/milestones?direction=desc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2022-03-12T02:51:59+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/LuciaPiridjian/PrimerRepo/milestones?direction=asc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2022-03-12T02:51:59+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/LuciaPiridjian/PrimerRepo/milestones?direction=asc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2022-03-12T02:51:59+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/LuciaPiridjian/PrimerRepo/milestones?direction=desc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2022-03-12T02:51:59+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/LuciaPiridjian/PrimerRepo/milestones?direction=asc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2022-03-12T02:51:59+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/LuciaPiridjian/PrimerRepo/milestones?direction=desc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2022-03-12T02:51:59+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/LuciaPiridjian/PrimerRepo/milestones?direction=desc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2022-03-12T02:51:59+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/LuciaPiridjian/PrimerRepo/milestones?direction=asc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2022-03-12T02:51:59+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+
+
+</urlset>
