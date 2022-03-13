@@ -75,6 +75,11 @@
   font-size: 20px;
 }
 
+.navbar-brand {
+  max-width: 10rem;
+  max-height: 10rem;
+}
+
 /* Each */
 .color1 header {
   background-color: #00006f !important;
