@@ -1,17 +1,21 @@
-@import 'variables';
+@import "variables";
 
 * {
-    margin: 0;
-    padding: 0;
-    box-sizing: 0;
+  margin: 0;
+  padding: 0;
+  box-sizing: 0;
 }
 
 .body {
-    background-color: $background; 
-    font-size: $font-size;
-} 
+  background-color: $background;
+  font-size: $font-size;
+}
 
 .navbar-brand {
-    max-width: 10rem;
-    max-height: 10rem;
+  max-width: 10rem;
+  max-height: 10rem;
+}
+
+.nav-link {
+  color: wheat !important;
 }
