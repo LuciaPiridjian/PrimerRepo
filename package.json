@@ -1,0 +1,23 @@
+{
+  "name": "3.13",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "sass --watch style/style.scss estilos/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuciaPiridjian/PrimerRepo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LuciaPiridjian/PrimerRepo/issues"
+  },
+  "homepage": "https://github.com/LuciaPiridjian/PrimerRepo#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
+}
